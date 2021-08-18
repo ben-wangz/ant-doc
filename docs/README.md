@@ -12,9 +12,9 @@
 
 # 饲养教程·从入门到放弃
 
-* 基本饲养常识
-* 新手蚂蚁饲养经验
-* 合后大法——欲练此功...
+* [基础教程](tutorials/tutorial.common.md)
+* [蚂蚁饲养经验](tutorials/tutorial.experience.md)
+* [合后大法——欲练此功...](tutorials/tutorial.merge.queens.md)
 * [系统性探索·蚁科(Formicidae)](species/category.formicidae.md)
 
 # 蚂蚁防治
