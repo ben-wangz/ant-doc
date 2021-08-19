@@ -1,4 +1,4 @@
-def docsPath = project.file("docs")
+def docsPath = project.file(".")
 def containerName = "ant-doc"
 task startDocsNginxDocker(type: Exec) {
     def port = 8082
