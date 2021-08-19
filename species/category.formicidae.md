@@ -32,25 +32,25 @@
 
 # 探索子目录
 
-Formicidae（蚁科???）<br />
-├── [Agroecomyrmecinae](category.agroecomyrmecinae.md) (蛮蚁亚科)<br />
-├── [Amblyoponinae](category.amblyoponinae.md)(钝猛蚁亚科)<br />
-├── [Aneuretinae](category.aneuretinae.md)(原臭蚁亚科)<br />
-├── [Apomyrminae](category.apomyrminae.md)(离猛蚁亚科)<br />
-├── [Dolichoderinae](category.dolichoderinae.md)(臭蚁亚科)<br />
-├── [Dorylinae](category.dorylinae.md)(行军蚁亚科)<br />
-├── [Ectatomminae](category.ectatomminae.md)(刺猛蚁亚科)<br />
-├── [Formicinae](category.formicinae.md)(蚁亚科）<br />
-├── [Heteroponerinae](category.heteroponerinae.md)(异猛蚁亚科)<br />
-├── [Leptanillinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=213868)<br />
-├── [Martialinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=557286)<br />
-├── [Myrmeciinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36669)<br />
-├── [Myrmicinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=34695)<br />
-├── [Nothomyrmeciinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147887)<br />
-├── [Paraponerinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=141712)<br />
-├── [Ponerinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=43085)<br />
-├── [Proceratiinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=292193)<br />
-├── [Pseudomyrmecinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40138)<br />
-├── [Formicidae incertae sedis](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=607032)<br />
-├── [unclassified Formicidae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1036971)<br />
-├── [environmental samples](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2731469)<br />
+* Formicidae（蚁科???）
+    + [Agroecomyrmecinae](category.agroecomyrmecinae.md) (蛮蚁亚科)
+    + [Amblyoponinae](category.amblyoponinae.md)(钝猛蚁亚科)
+    + [Aneuretinae](category.aneuretinae.md)(原臭蚁亚科)
+    + [Apomyrminae](category.apomyrminae.md)(离猛蚁亚科)
+    + [Dolichoderinae](category.dolichoderinae.md)(臭蚁亚科)
+    + [Dorylinae](category.dorylinae.md)(行军蚁亚科)
+    + [Ectatomminae](category.ectatomminae.md)(刺猛蚁亚科)
+    + [Formicinae](category.formicinae.md)(蚁亚科）
+    + [Heteroponerinae](category.heteroponerinae.md)(异猛蚁亚科)
+    + [Leptanillinae](category.leptanillinae.md)(细蚁亚科)
+    + [Martialinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=557286)
+    + [Myrmeciinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36669)
+    + [Myrmicinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=34695)
+    + [Nothomyrmeciinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=147887)
+    + [Paraponerinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=141712)
+    + [Ponerinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=43085)
+    + [Proceratiinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=292193)
+    + [Pseudomyrmecinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=40138)
+    + [Formicidae incertae sedis](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=607032)
+    + [unclassified Formicidae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1036971)
+    + [environmental samples](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2731469)
