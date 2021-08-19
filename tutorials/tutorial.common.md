@@ -1,6 +1,12 @@
 # 基础教程
 
 ## 基本常识
+* 如何选择蚂蚁
+  + ![如何选择蚂蚁](images/how.to.choose.ants.jpeg)
+  + 此图来自百度贴吧（蚂蚁吧），原始出处已不可考，如涉及到您的权益，请及时[联系我们](/about/contact_us.md)，第一时间处理
+* 来自前辈的提点
+  + ![养蚁入门神图](images/advise.from.big.brothers.jpeg)
+  + 此图来自百度贴吧（蚂蚁吧），原始出处已不可考，如涉及到您的权益，请及时[联系我们](/about/contact_us.md)，第一时间处理
 
 ## 入门系列
 
