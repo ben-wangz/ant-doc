@@ -33,15 +33,15 @@
 # 探索子目录
 
 Formicidae（蚁科???）<br />
-├── [Agroecomyrmecinae](category.agroecomyrmecinae.md) (蛮蚁亚科)<br />
-├── [Amblyoponinae](category.amblyoponinae.md)(钝猛蚁亚科)<br />
-├── [Aneuretinae](category.aneuretinae.md)(原臭蚁亚科)<br />
-├── [Apomyrminae](category.apomyrminae.md)(离猛蚁亚科)<br />
-├── [Dolichoderinae](category.dolichoderinae.md)(臭蚁亚科)<br />
-├── [Dorylinae](category.dorylinae.md)(行军蚁亚科)<br />
-├── [Ectatomminae](category.ectatomminae.md)(刺猛蚁亚科)<br />
-├── [Formicinae](category.formicinae.md)(蚁亚科）<br />
-├── [Heteroponerinae](category.heteroponerinae.md)(异猛蚁亚科)<br />
+├── [Agroecomyrmecinae](/species/category.agroecomyrmecinae.md) (蛮蚁亚科)<br />
+├── [Amblyoponinae](/species/category.amblyoponinae.md)(钝猛蚁亚科)<br />
+├── [Aneuretinae](/species/category.aneuretinae.md)(原臭蚁亚科)<br />
+├── [Apomyrminae](/species/category.apomyrminae.md)(离猛蚁亚科)<br />
+├── [Dolichoderinae](/species/category.dolichoderinae.md)(臭蚁亚科)<br />
+├── [Dorylinae](/species/category.dorylinae.md)(行军蚁亚科)<br />
+├── [Ectatomminae](/species/category.ectatomminae.md)(刺猛蚁亚科)<br />
+├── [Formicinae](/species/category.formicinae.md)(蚁亚科）<br />
+├── [Heteroponerinae](/species/category.heteroponerinae.md)(异猛蚁亚科)<br />
 ├── [Leptanillinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=213868)<br />
 ├── [Martialinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=557286)<br />
 ├── [Myrmeciinae](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=36669)<br />
