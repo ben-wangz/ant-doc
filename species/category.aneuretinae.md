@@ -6,6 +6,5 @@
 
 # 探索子目录
 
-Aneuretinae(原臭蚁亚科)<br />
-├── Aneuretus<br />
-    ├── Aneuretus simoni<br />
+* Aneuretus
+    + Aneuretus simoni
