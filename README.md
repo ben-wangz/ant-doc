@@ -18,7 +18,7 @@
 
 # 探索
 
-* [蚁科(Formicidae)](species/category.formicidae.md)
+* [Formicidae](species/category.formicidae.md)(蚁科)
 
 # 蚂蚁防治
 
