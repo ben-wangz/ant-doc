@@ -249,7 +249,7 @@
         * Camponotus irritans
             + Camponotus irritans kubaryi
         * Camponotus janeti
-        * Camponotus japonicus
+        * [Camponotus japonicus](ant.camponotus.japonicus.md)(日本弓背蚁)
         * Camponotus jianghuaensis
         * Camponotus johnclarki
         * Camponotus kiusiuensis
