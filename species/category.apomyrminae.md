@@ -6,10 +6,10 @@
 
 # 探索子目录
 
-Apomyrminae(离猛蚁亚科)<br />
-├── Apomyrma<br />
-    ├── Apomyrma stygia<br />
-    ├── unclassified Apomyrma<br />
-        ├── Apomyrma sp. CASENT0637364<br />
-        ├── Apomyrma sp. CF01<br />
-        ├── Apomyrma sp. CF02<br />
+Apomyrminae(离猛蚁亚科)
+* Apomyrma
+    + Apomyrma stygia
+    + unclassified Apomyrma
+        * Apomyrma sp. CASENT0637364
+        * Apomyrma sp. CF01
+        * Apomyrma sp. CF02
