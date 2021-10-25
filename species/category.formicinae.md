@@ -233,7 +233,7 @@
         * Camponotus grandidieri
         * Camponotus hagensii
         * Camponotus hartogi
-        * Camponotus helvus
+        * Camponotus helvus (黄腹弓背蚁)
         * Camponotus herculeanus
         * Camponotus heteroclitus
         * Camponotus hildebrandti
@@ -426,6 +426,8 @@
         * Camponotus n. sp. BGW-2001
         * Camponotus (Tanaemyrmex) sp. 153 of SKY
         * Camponotus (Tanaemyrmex) sp. 48 of SKY
+        * Camponotus (Tanaemyrmex) turkestanus 【额外补充: 中亚弓背蚁(土耳其弓背蚁 是错误翻译), 全黄弓背蚁】
+        * Camponotus fedtschenkoi 【额外补充: 费氏弓背蚁，黑金弓背蚁】
         * unclassified Camponotus
             + Camponotus (Myrmamblys) sp.
             + Camponotus sp.
